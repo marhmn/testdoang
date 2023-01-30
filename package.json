@@ -1,0 +1,11 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "coba1",
+  "main": "node belajarjs1.js",
+  "scripts": {
+    "test": "node belajarjs1.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
